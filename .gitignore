@@ -1,2 +1,8 @@
 venv/
 .ipynb_checkpoints/
+
+# Gizli ayarlar ve sanal ortamlari hariç tut
+.streamlit/
+venv/
+__pycache__/
+*.joblib
